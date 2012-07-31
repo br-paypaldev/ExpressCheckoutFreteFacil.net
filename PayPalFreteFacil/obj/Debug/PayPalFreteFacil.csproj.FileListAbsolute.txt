@@ -1,0 +1,5 @@
+c:\users\user\documents\visual studio 2010\Projects\PayPalFreteFacil\PayPalFreteFacil\bin\PayPalFreteFacil.dll
+c:\users\user\documents\visual studio 2010\Projects\PayPalFreteFacil\PayPalFreteFacil\bin\PayPalFreteFacil.pdb
+c:\users\user\documents\visual studio 2010\Projects\PayPalFreteFacil\PayPalFreteFacil\obj\Debug\ResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2010\Projects\PayPalFreteFacil\PayPalFreteFacil\obj\Debug\PayPalFreteFacil.dll
+c:\users\user\documents\visual studio 2010\Projects\PayPalFreteFacil\PayPalFreteFacil\obj\Debug\PayPalFreteFacil.pdb

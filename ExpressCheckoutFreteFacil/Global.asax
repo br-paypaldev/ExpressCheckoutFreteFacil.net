@@ -1,1 +1,0 @@
-<%@ Application Inherits="ExpressCheckoutFreteFacil.MvcApplication" %>
